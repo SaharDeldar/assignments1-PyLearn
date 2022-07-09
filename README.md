@@ -9,3 +9,6 @@
 
 # bmi
 ![image](https://user-images.githubusercontent.com/100313500/178104061-518de8f4-8097-4ac8-af0d-544fe680fb20.png)
+
+# triangle
+![image](https://user-images.githubusercontent.com/100313500/178104497-b384810b-dd0e-4006-8400-c9e106bff7bf.png)
