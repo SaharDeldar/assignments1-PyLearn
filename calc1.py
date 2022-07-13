@@ -15,8 +15,11 @@ while True:
         result = a-b
     elif op == "*":
         result = a*b
-    elif op == "/":
-        result = a/b  
+    elif op=="/"    :
+        if b!=0:
+            result=a/b 
+        else:
+            result="cannot divide by zero"  
     elif op =="sin":
         result =math.sin(a)
     elif op =="tan":
